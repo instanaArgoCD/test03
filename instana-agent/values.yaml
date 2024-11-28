@@ -206,7 +206,7 @@ serviceAccount:
 
 zone:
   # zone.name is the custom zone that detected technologies will be assigned to
-  name: CP4I-Zone-HELM-NEW
+  name: CP4I-Zone-HELM
 
 # k8s_sensor:
 #   image:
